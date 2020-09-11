@@ -1,0 +1,88 @@
+{
+    "packages": {
+        "moderntribe/square1-post-meta": [
+            {
+                "name": "moderntribe/square1-post-meta",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-meta.git",
+                    "reference": "60d8ca5bd288167ef75c062348d8f910637e02cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-meta/zipball/60d8ca5bd288167ef75c062348d8f910637e02cc",
+                    "reference": "60d8ca5bd288167ef75c062348d8f910637e02cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^3.2",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-03T00:47:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Post meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-meta/tree/master",
+                    "issues": "https://github.com/moderntribe/square1-post-meta/issues"
+                },
+                "abandoned": "moderntribe/square1-object-meta"
+            },
+            {
+                "name": "moderntribe/square1-post-meta",
+                "version": "dev-feature/monorepo",
+                "version_normalized": "dev-feature/monorepo",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-meta.git",
+                    "reference": "debf9f496504b3f7254bd7701a9207a1c1627a91"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-meta/zipball/debf9f496504b3f7254bd7701a9207a1c1627a91",
+                    "reference": "debf9f496504b3f7254bd7701a9207a1c1627a91",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "dev-feature/monorepo",
+                    "php": "^7.0"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Post meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-meta/tree/feature/monorepo",
+                    "issues": "https://github.com/moderntribe/square1-post-meta/issues"
+                },
+                "abandoned": "moderntribe/square1-object-meta"
+            }
+        ]
+    }
+}

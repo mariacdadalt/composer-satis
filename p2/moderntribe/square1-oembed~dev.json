@@ -1,0 +1,86 @@
+{
+    "packages": {
+        "moderntribe/square1-oembed": [
+            {
+                "name": "moderntribe/square1-oembed",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-oembed.git",
+                    "reference": "7d96445423ff6971f349710eaf825996bc673c4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-oembed/zipball/7d96445423ff6971f349710eaf825996bc673c4f",
+                    "reference": "7d96445423ff6971f349710eaf825996bc673c4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cache": "^3.2",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-03T00:47:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Oembed\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Oembed utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-oembed/tree/master",
+                    "issues": "https://github.com/moderntribe/square1-oembed/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-oembed",
+                "version": "dev-feature/monorepo",
+                "version_normalized": "dev-feature/monorepo",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-oembed.git",
+                    "reference": "fad51e5f559512bdf721bafe75d603f0725f350d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-oembed/zipball/fad51e5f559512bdf721bafe75d603f0725f350d",
+                    "reference": "fad51e5f559512bdf721bafe75d603f0725f350d",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cache": "dev-feature/monorepo",
+                    "php": "^7.0"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Oembed\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Oembed utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-oembed/tree/feature/monorepo",
+                    "issues": "https://github.com/moderntribe/square1-oembed/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,279 @@
+{
+    "packages": {
+        "moderntribe/square1-nav": [
+            {
+                "name": "moderntribe/square1-nav",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-nav.git",
+                    "reference": "0556fe3c26cfb1c3f7e6876f2f00b87b4c408a8e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-nav/zipball/0556fe3c26cfb1c3f7e6876f2f00b87b4c408a8e",
+                    "reference": "0556fe3c26cfb1c3f7e6876f2f00b87b4c408a8e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-06-11T00:43:55+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Nav\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "Nav menu tools for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-nav/tree/0.0.1",
+                    "issues": "https://github.com/moderntribe/square1-nav/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-nav",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-nav.git",
+                    "reference": "a2e950b1abacf95ab6603d67c99d98bae42e3bac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-nav/zipball/a2e950b1abacf95ab6603d67c99d98bae42e3bac",
+                    "reference": "a2e950b1abacf95ab6603d67c99d98bae42e3bac",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-08-02T21:17:30+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-feature/monorepo": "2.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Nav\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "Nav menu tools for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-nav/tree/0.0.2",
+                    "issues": "https://github.com/moderntribe/square1-nav/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-nav",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-nav.git",
+                    "reference": "5bc0d332de4dfb95b64a90a0677c8b8fa9c3ce33"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-nav/zipball/5bc0d332de4dfb95b64a90a0677c8b8fa9c3ce33",
+                    "reference": "5bc0d332de4dfb95b64a90a0677c8b8fa9c3ce33",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Nav\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Nav menu tools for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-nav/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-nav/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-nav",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-nav.git",
+                    "reference": "e6a64f2086cd8345c2d3656049f2c511debfcabd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-nav/zipball/e6a64f2086cd8345c2d3656049f2c511debfcabd",
+                    "reference": "e6a64f2086cd8345c2d3656049f2c511debfcabd",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2020-02-22T22:11:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Nav\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Nav menu tools for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-nav/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-nav/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-nav",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-nav.git",
+                    "reference": "e6a64f2086cd8345c2d3656049f2c511debfcabd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-nav/zipball/e6a64f2086cd8345c2d3656049f2c511debfcabd",
+                    "reference": "e6a64f2086cd8345c2d3656049f2c511debfcabd",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2020-02-22T22:11:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Nav\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Nav menu tools for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-nav/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-nav/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-nav",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-nav.git",
+                    "reference": "1536ad14fa7f99ae6e3fa0e5063a50053147c697"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-nav/zipball/1536ad14fa7f99ae6e3fa0e5063a50053147c697",
+                    "reference": "1536ad14fa7f99ae6e3fa0e5063a50053147c697",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2020-05-18T20:34:25+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Nav\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Nav menu tools for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-nav/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-nav/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-nav",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-nav.git",
+                    "reference": "67b95be9795fc47dbe9c1fb6110e7487dbb45f2f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-nav/zipball/67b95be9795fc47dbe9c1fb6110e7487dbb45f2f",
+                    "reference": "67b95be9795fc47dbe9c1fb6110e7487dbb45f2f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.2"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Nav\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Nav menu tools for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-nav/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-nav/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "packages": {
+        "moderntribe/square1-p2p": [
+            {
+                "name": "moderntribe/square1-p2p",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-p2p.git",
+                    "reference": "9b93ac96629bba9ed6ce7c11a2a45e14fae56081"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-p2p/zipball/9b93ac96629bba9ed6ce7c11a2a45e14fae56081",
+                    "reference": "9b93ac96629bba9ed6ce7c11a2a45e14fae56081",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-06-11T00:43:55+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\P2P\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "P2P utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-p2p/tree/0.0.1",
+                    "issues": "https://github.com/moderntribe/square1-p2p/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-p2p",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-p2p.git",
+                    "reference": "1745118af92f6a8fad97ee7e4fe2dbc69302f405"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-p2p/zipball/1745118af92f6a8fad97ee7e4fe2dbc69302f405",
+                    "reference": "1745118af92f6a8fad97ee7e4fe2dbc69302f405",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-08-02T21:17:30+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-feature/monorepo": "2.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\P2P\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "P2P utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-p2p/tree/0.0.2",
+                    "issues": "https://github.com/moderntribe/square1-p2p/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-p2p",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-p2p.git",
+                    "reference": "9884aa08c3ebccbc129c4a1bfe25bd09c6733c20"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-p2p/zipball/9884aa08c3ebccbc129c4a1bfe25bd09c6733c20",
+                    "reference": "9884aa08c3ebccbc129c4a1bfe25bd09c6733c20",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\P2P\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "P2P utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-p2p/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-p2p/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-p2p",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-p2p.git",
+                    "reference": "58358aa8ccde92750b98164a6dd1e8f2d9e4de5b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-p2p/zipball/58358aa8ccde92750b98164a6dd1e8f2d9e4de5b",
+                    "reference": "58358aa8ccde92750b98164a6dd1e8f2d9e4de5b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2020-02-22T22:11:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\P2P\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "P2P utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-p2p/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-p2p/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-p2p",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-p2p.git",
+                    "reference": "58358aa8ccde92750b98164a6dd1e8f2d9e4de5b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-p2p/zipball/58358aa8ccde92750b98164a6dd1e8f2d9e4de5b",
+                    "reference": "58358aa8ccde92750b98164a6dd1e8f2d9e4de5b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2020-02-22T22:11:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\P2P\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "P2P utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-p2p/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-p2p/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-p2p",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-p2p.git",
+                    "reference": "c84b898294f5e521351cf98c86987887f77ae8b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-p2p/zipball/c84b898294f5e521351cf98c86987887f77ae8b4",
+                    "reference": "c84b898294f5e521351cf98c86987887f77ae8b4",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.0",
+                    "php": "^7.0"
+                },
+                "time": "2020-09-01T17:22:29+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\P2P\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "P2P utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-p2p/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-p2p/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-p2p",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-p2p.git",
+                    "reference": "0cecf9eeac58c54b75fcd5365c3a1db9b007ac53"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-p2p/zipball/0cecf9eeac58c54b75fcd5365c3a1db9b007ac53",
+                    "reference": "0cecf9eeac58c54b75fcd5365c3a1db9b007ac53",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.1",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\P2P\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "P2P utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-p2p/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-p2p/issues"
+                }
+            }
+        ]
+    }
+}

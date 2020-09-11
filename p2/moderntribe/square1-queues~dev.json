@@ -1,0 +1,89 @@
+{
+    "packages": {
+        "moderntribe/square1-queues": [
+            {
+                "name": "moderntribe/square1-queues",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-queues.git",
+                    "reference": "7e6dbb9012c8d39a1445ba9cdf8f04035145c786"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-queues/zipball/7e6dbb9012c8d39a1445ba9cdf8f04035145c786",
+                    "reference": "7e6dbb9012c8d39a1445ba9cdf8f04035145c786",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cli": "^3.2",
+                    "moderntribe/square1-container": "^3.2",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-03T00:47:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Queues\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A queues provider for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-queues/tree/master",
+                    "issues": "https://github.com/moderntribe/square1-queues/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-queues",
+                "version": "dev-feature/monorepo",
+                "version_normalized": "dev-feature/monorepo",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-queues.git",
+                    "reference": "1a739c88e00b6924dbc8ec6291df5bac1c5df7ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-queues/zipball/1a739c88e00b6924dbc8ec6291df5bac1c5df7ea",
+                    "reference": "1a739c88e00b6924dbc8ec6291df5bac1c5df7ea",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cli": "dev-feature/monorepo",
+                    "moderntribe/square1-container": "dev-feature/monorepo",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Queues\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A queues provider for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-queues/tree/feature/monorepo",
+                    "issues": "https://github.com/moderntribe/square1-queues/issues"
+                }
+            }
+        ]
+    }
+}

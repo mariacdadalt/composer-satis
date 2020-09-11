@@ -1,0 +1,279 @@
+{
+    "packages": {
+        "moderntribe/square1-settings": [
+            {
+                "name": "moderntribe/square1-settings",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-settings.git",
+                    "reference": "96c6bb5376216a989f0d65c45b40773cb67385b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-settings/zipball/96c6bb5376216a989f0d65c45b40773cb67385b0",
+                    "reference": "96c6bb5376216a989f0d65c45b40773cb67385b0",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-06-11T00:43:55+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Settings\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "Settings page utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-settings/tree/0.0.1",
+                    "issues": "https://github.com/moderntribe/square1-settings/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-settings",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-settings.git",
+                    "reference": "73429d1d1e4c7356966ece508383bf283c5dc372"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-settings/zipball/73429d1d1e4c7356966ece508383bf283c5dc372",
+                    "reference": "73429d1d1e4c7356966ece508383bf283c5dc372",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-08-02T21:17:30+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-feature/monorepo": "2.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Settings\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "Settings page utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-settings/tree/0.0.2",
+                    "issues": "https://github.com/moderntribe/square1-settings/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-settings",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-settings.git",
+                    "reference": "b0c72c8e13421d91163e02f0720e2d20a5ac5c35"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-settings/zipball/b0c72c8e13421d91163e02f0720e2d20a5ac5c35",
+                    "reference": "b0c72c8e13421d91163e02f0720e2d20a5ac5c35",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Settings\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Settings page utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-settings/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-settings/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-settings",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-settings.git",
+                    "reference": "1cd0b1a8679066743211663d00600948f8ef8312"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-settings/zipball/1cd0b1a8679066743211663d00600948f8ef8312",
+                    "reference": "1cd0b1a8679066743211663d00600948f8ef8312",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2020-02-22T22:11:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Settings\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Settings page utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-settings/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-settings/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-settings",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-settings.git",
+                    "reference": "1cd0b1a8679066743211663d00600948f8ef8312"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-settings/zipball/1cd0b1a8679066743211663d00600948f8ef8312",
+                    "reference": "1cd0b1a8679066743211663d00600948f8ef8312",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2020-02-22T22:11:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Settings\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Settings page utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-settings/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-settings/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-settings",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-settings.git",
+                    "reference": "03738647ed0b7ae11e86687aa6b256c44307c783"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-settings/zipball/03738647ed0b7ae11e86687aa6b256c44307c783",
+                    "reference": "03738647ed0b7ae11e86687aa6b256c44307c783",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2020-05-18T20:18:05+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Settings\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Settings page utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-settings/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-settings/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-settings",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-settings.git",
+                    "reference": "8b9f8ba83877552aa05e12c879526eb1627b35c5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-settings/zipball/8b9f8ba83877552aa05e12c879526eb1627b35c5",
+                    "reference": "8b9f8ba83877552aa05e12c879526eb1627b35c5",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.2"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Settings\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Settings page utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-settings/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-settings/issues"
+                }
+            }
+        ]
+    }
+}

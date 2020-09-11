@@ -13,9 +13,49 @@
       "url": "git@github.com:moderntribe/ACF-Image-Select.git"
     },
     {
-      "name": "moderntribe/square1-post-type",
+      "name": "moderntribe/square1-acf",
       "type": "vcs",
-      "url": "git@github.com:moderntribe/square1-post-type.git"
+      "url": "git@github.com:moderntribe/square1-acf.git"
+    },
+    {
+      "name": "moderntribe/square1-assets",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-assets.git"
+    },
+    {
+      "name": "moderntribe/square1-blog-copier",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-blog-copier.git"
+    },
+    {
+      "name": "moderntribe/square1-cache",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-cache.git"
+    },
+    {
+      "name": "moderntribe/square1-cli",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-cli.git"
+    },
+    {
+      "name": "moderntribe/square1-container",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-container.git"
+    },
+    {
+      "name": "moderntribe/square1-generators",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-generators.git"
+    },
+    {
+      "name": "moderntribe/square1-media",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-media.git"
+    },
+    {
+      "name": "moderntribe/square1-nav",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-nav.git"
     },
     {
       "name": "moderntribe/square1-object-meta",
@@ -23,9 +63,69 @@
       "url": "git@github.com:moderntribe/square1-object-meta.git"
     },
     {
-      "name": "moderntribe/square1-container",
+      "name": "moderntribe/square1-oembed",
       "type": "vcs",
-      "url": "git@github.com:moderntribe/square1-container.git"
+      "url": "git@github.com:moderntribe/square1-oembed.git"
+    },
+    {
+      "name": "moderntribe/square1-p2p",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-p2p.git"
+    },
+    {
+      "name": "moderntribe/square1-post-meta",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-post-meta.git"
+    },
+    {
+      "name": "moderntribe/square1-post-type",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-post-type.git"
+    },
+    {
+      "name": "moderntribe/square1-queues",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-queues.git"
+    },
+    {
+      "name": "moderntribe/square1-queues-mysql",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-queues-mysql.git"
+    },
+    {
+      "name": "moderntribe/square1-required-page",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-required-page.git"
+    },
+    {
+      "name": "moderntribe/square1-schema",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-schema.git"
+    },
+    {
+      "name": "moderntribe/square1-settings",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-settings.git"
+    },
+    {
+      "name": "moderntribe/square1-taxonomy",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-taxonomy.git"
+    },
+    {
+      "name": "moderntribe/square1-user",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-user.git"
+    },
+    {
+      "name": "moderntribe/square1-utils",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-utils.git"
+    },
+    {
+      "name": "moderntribe/square1-whoops",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-whoops.git"
     }
   ],
   "require-all": true

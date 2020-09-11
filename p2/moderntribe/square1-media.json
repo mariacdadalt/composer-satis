@@ -1,0 +1,86 @@
+{
+    "packages": {
+        "moderntribe/square1-media": [
+            {
+                "name": "moderntribe/square1-media",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-media.git",
+                    "reference": "1c51d9b09b38d10218bc9ca42c7e07e047ad1827"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-media/zipball/1c51d9b09b38d10218bc9ca42c7e07e047ad1827",
+                    "reference": "1c51d9b09b38d10218bc9ca42c7e07e047ad1827",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.0",
+                    "php": "^7.0"
+                },
+                "time": "2020-09-01T17:22:29+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Media\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Media utilities for use with SquareOne projects",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-media/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-media/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-media",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-media.git",
+                    "reference": "ca023b3a80e26385f5d508cd5483ad784a3a1c84"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-media/zipball/ca023b3a80e26385f5d508cd5483ad784a3a1c84",
+                    "reference": "ca023b3a80e26385f5d508cd5483ad784a3a1c84",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.1",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Media\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Media utilities for use with SquareOne projects",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-media/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-media/issues"
+                }
+            }
+        ]
+    }
+}

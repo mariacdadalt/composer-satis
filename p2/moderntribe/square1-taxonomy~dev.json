@@ -1,0 +1,86 @@
+{
+    "packages": {
+        "moderntribe/square1-taxonomy": [
+            {
+                "name": "moderntribe/square1-taxonomy",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-taxonomy.git",
+                    "reference": "b623d983a94c8d7e1c1ab2b38855936b00847502"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-taxonomy/zipball/b623d983a94c8d7e1c1ab2b38855936b00847502",
+                    "reference": "b623d983a94c8d7e1c1ab2b38855936b00847502",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^3.2",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-03T00:47:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Taxonomy\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Taxonomy utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-taxonomy/tree/master",
+                    "issues": "https://github.com/moderntribe/square1-taxonomy/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-taxonomy",
+                "version": "dev-feature/monorepo",
+                "version_normalized": "dev-feature/monorepo",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-taxonomy.git",
+                    "reference": "9eb450a3f65fac77f4dd77b3dc964d7cac858d58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-taxonomy/zipball/9eb450a3f65fac77f4dd77b3dc964d7cac858d58",
+                    "reference": "9eb450a3f65fac77f4dd77b3dc964d7cac858d58",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "dev-feature/monorepo",
+                    "php": "^7.0"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Taxonomy\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Taxonomy utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-taxonomy/tree/feature/monorepo",
+                    "issues": "https://github.com/moderntribe/square1-taxonomy/issues"
+                }
+            }
+        ]
+    }
+}

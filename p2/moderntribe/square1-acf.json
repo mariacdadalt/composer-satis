@@ -1,0 +1,286 @@
+{
+    "packages": {
+        "moderntribe/square1-acf": [
+            {
+                "name": "moderntribe/square1-acf",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-acf.git",
+                    "reference": "706887f9061e0148cd9ece642c66a73f1d4801c7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-acf/zipball/706887f9061e0148cd9ece642c66a73f1d4801c7",
+                    "reference": "706887f9061e0148cd9ece642c66a73f1d4801c7",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0",
+                    "square1-object-meta": "2.0.*"
+                },
+                "time": "2019-06-11T00:43:55+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\ACF\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "Provides ACF object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-acf/tree/0.0.1",
+                    "issues": "https://github.com/moderntribe/square1-acf/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-acf",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-acf.git",
+                    "reference": "79ae61b0b2decc265024922e9c18973d4e8584d8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-acf/zipball/79ae61b0b2decc265024922e9c18973d4e8584d8",
+                    "reference": "79ae61b0b2decc265024922e9c18973d4e8584d8",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "2.0.*",
+                    "php": "^7.0"
+                },
+                "time": "2019-08-02T21:38:57+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-feature/monorepo": "2.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\ACF\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "Provides ACF object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-acf/tree/0.0.2",
+                    "issues": "https://github.com/moderntribe/square1-acf/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-acf",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-acf.git",
+                    "reference": "bc7b3d15232effa1d20d0adbccf6871663a9d661"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-acf/zipball/bc7b3d15232effa1d20d0adbccf6871663a9d661",
+                    "reference": "bc7b3d15232effa1d20d0adbccf6871663a9d661",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^2.0",
+                    "php": "^7.0"
+                },
+                "time": "2019-10-07T15:02:31+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\ACF\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides ACF object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-acf/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-acf/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-acf",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-acf.git",
+                    "reference": "2de5a51235029fb5953380f11023291f97b9ba00"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-acf/zipball/2de5a51235029fb5953380f11023291f97b9ba00",
+                    "reference": "2de5a51235029fb5953380f11023291f97b9ba00",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^2.1.1",
+                    "php": "^7.0"
+                },
+                "time": "2020-02-22T22:15:00+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\ACF\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides ACF object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-acf/tree/v2.1.1",
+                    "issues": "https://github.com/moderntribe/square1-acf/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-acf",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-acf.git",
+                    "reference": "de6eb5f4a9a69def74915ea6c47026b5f6c26890"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-acf/zipball/de6eb5f4a9a69def74915ea6c47026b5f6c26890",
+                    "reference": "de6eb5f4a9a69def74915ea6c47026b5f6c26890",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^2.1.2",
+                    "php": "^7.0"
+                },
+                "time": "2020-04-02T20:46:06+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\ACF\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides ACF object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-acf/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-acf/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-acf",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-acf.git",
+                    "reference": "c7fb94f07d8a9e94c0068303515d09867d524e4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-acf/zipball/c7fb94f07d8a9e94c0068303515d09867d524e4d",
+                    "reference": "c7fb94f07d8a9e94c0068303515d09867d524e4d",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^3.0",
+                    "php": "^7.0"
+                },
+                "time": "2020-09-01T17:22:29+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\ACF\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides ACF object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-acf/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-acf/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-acf",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-acf.git",
+                    "reference": "69b4f5917094fcc8a15c8c2e88f46accab7a322e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-acf/zipball/69b4f5917094fcc8a15c8c2e88f46accab7a322e",
+                    "reference": "69b4f5917094fcc8a15c8c2e88f46accab7a322e",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^3.1",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\ACF\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides ACF object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-acf/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-acf/issues"
+                }
+            }
+        ]
+    }
+}

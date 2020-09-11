@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "moderntribe/square1-utils": [
+            {
+                "name": "moderntribe/square1-utils",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-utils.git",
+                    "reference": "dc54e7241d55a72992d9647cf53cf3982cd9ca49"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-utils/zipball/dc54e7241d55a72992d9647cf53cf3982cd9ca49",
+                    "reference": "dc54e7241d55a72992d9647cf53cf3982cd9ca49",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.2"
+                },
+                "time": "2020-09-03T00:47:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Utils\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-utils/tree/master",
+                    "issues": "https://github.com/moderntribe/square1-utils/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-utils",
+                "version": "dev-feature/monorepo",
+                "version_normalized": "dev-feature/monorepo",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-utils.git",
+                    "reference": "7b825d05daee299d3d3beebd037b99b5d1f3f475"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-utils/zipball/7b825d05daee299d3d3beebd037b99b5d1f3f475",
+                    "reference": "7b825d05daee299d3d3beebd037b99b5d1f3f475",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Utils\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-utils/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-utils/issues"
+                }
+            }
+        ]
+    }
+}

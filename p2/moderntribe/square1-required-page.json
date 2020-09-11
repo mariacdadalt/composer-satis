@@ -1,0 +1,92 @@
+{
+    "packages": {
+        "moderntribe/square1-required-page": [
+            {
+                "name": "moderntribe/square1-required-page",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-required-page.git",
+                    "reference": "4f5a1462495dffed18e015c77a71517e0fecd2bc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-required-page/zipball/4f5a1462495dffed18e015c77a71517e0fecd2bc",
+                    "reference": "4f5a1462495dffed18e015c77a71517e0fecd2bc",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.0",
+                    "php": "^7.0"
+                },
+                "suggest": {
+                    "moderntribe/square1-acf": "Supports automatic registration of options to manage the assigned pages"
+                },
+                "time": "2020-09-01T17:22:29+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Required_Page\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A utility for forcing content pages to exist in square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-required-page/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-required-page/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-required-page",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-required-page.git",
+                    "reference": "95aa1f83cfd2a52498b143a47b5e13e9eefa95e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-required-page/zipball/95aa1f83cfd2a52498b143a47b5e13e9eefa95e2",
+                    "reference": "95aa1f83cfd2a52498b143a47b5e13e9eefa95e2",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.1",
+                    "php": "^7.2"
+                },
+                "suggest": {
+                    "moderntribe/square1-acf": "Supports automatic registration of options to manage the assigned pages"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Required_Page\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A utility for forcing content pages to exist in square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-required-page/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-required-page/issues"
+                }
+            }
+        ]
+    }
+}

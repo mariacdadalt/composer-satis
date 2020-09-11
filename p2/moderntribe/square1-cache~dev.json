@@ -1,0 +1,94 @@
+{
+    "packages": {
+        "moderntribe/square1-cache": [
+            {
+                "name": "moderntribe/square1-cache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-cache.git",
+                    "reference": "a17a59240d417752ce32f555ef2b5a15f0258b6f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-cache/zipball/a17a59240d417752ce32f555ef2b5a15f0258b6f",
+                    "reference": "a17a59240d417752ce32f555ef2b5a15f0258b6f",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cli": "^3.2",
+                    "moderntribe/square1-container": "^3.2",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-03T00:47:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Cache\\": ""
+                    },
+                    "files": [
+                        "functions.php"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Object cache wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-cache/tree/master",
+                    "issues": "https://github.com/moderntribe/square1-cache/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-cache",
+                "version": "dev-feature/monorepo",
+                "version_normalized": "dev-feature/monorepo",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-cache.git",
+                    "reference": "84f8b56e656aff33375fc4890b2eb9a39a8a50c3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-cache/zipball/84f8b56e656aff33375fc4890b2eb9a39a8a50c3",
+                    "reference": "84f8b56e656aff33375fc4890b2eb9a39a8a50c3",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "dev-feature/monorepo",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Cache\\": ""
+                    },
+                    "files": [
+                        "functions.php"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Object cache wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-cache/tree/feature/monorepo",
+                    "issues": "https://github.com/moderntribe/square1-cache/issues"
+                }
+            }
+        ]
+    }
+}

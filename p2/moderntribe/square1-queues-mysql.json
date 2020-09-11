@@ -1,0 +1,305 @@
+{
+    "packages": {
+        "moderntribe/square1-queues-mysql": [
+            {
+                "name": "moderntribe/square1-queues-mysql",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-queues-mysql.git",
+                    "reference": "2d82fb0c321f3d7d785bb6b058211baa8b4a80c5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-queues-mysql/zipball/2d82fb0c321f3d7d785bb6b058211baa8b4a80c5",
+                    "reference": "2d82fb0c321f3d7d785bb6b058211baa8b4a80c5",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cli": "2.0.*",
+                    "moderntribe/square1-container": "2.0.*",
+                    "moderntribe/square1-queues": "2.0.*",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-07-03T14:39:55+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Queues_Mysql\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "A MySQL backend for square one queues",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-queues-mysql/tree/0.0.1",
+                    "issues": "https://github.com/moderntribe/square1-queues-mysql/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-queues-mysql",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-queues-mysql.git",
+                    "reference": "aee684b3c3a5c6853b84945a8f321e3f96f37858"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-queues-mysql/zipball/aee684b3c3a5c6853b84945a8f321e3f96f37858",
+                    "reference": "aee684b3c3a5c6853b84945a8f321e3f96f37858",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cli": "2.0.*",
+                    "moderntribe/square1-container": "2.0.*",
+                    "moderntribe/square1-queues": "2.0.*",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-08-02T21:17:30+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-feature/monorepo": "2.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Queues_Mysql\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "A MySQL backend for square one queues",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-queues-mysql/tree/0.0.2",
+                    "issues": "https://github.com/moderntribe/square1-queues-mysql/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-queues-mysql",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-queues-mysql.git",
+                    "reference": "12cd50ef931771fefd35ebe293670d5365abeef5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-queues-mysql/zipball/12cd50ef931771fefd35ebe293670d5365abeef5",
+                    "reference": "12cd50ef931771fefd35ebe293670d5365abeef5",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cli": "^2.0",
+                    "moderntribe/square1-container": "^2.0",
+                    "moderntribe/square1-queues": "^2.0",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-10-07T15:02:31+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Queues_Mysql\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A MySQL backend for square one queues",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-queues-mysql/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-queues-mysql/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-queues-mysql",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-queues-mysql.git",
+                    "reference": "b0fdbe9491bf0062abf463944196da2a708489eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-queues-mysql/zipball/b0fdbe9491bf0062abf463944196da2a708489eb",
+                    "reference": "b0fdbe9491bf0062abf463944196da2a708489eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cli": "^2.1.1",
+                    "moderntribe/square1-container": "^2.1.1",
+                    "moderntribe/square1-queues": "^2.1.1",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2020-02-22T22:15:00+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Queues_Mysql\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A MySQL backend for square one queues",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-queues-mysql/tree/v2.1.1",
+                    "issues": "https://github.com/moderntribe/square1-queues-mysql/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-queues-mysql",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-queues-mysql.git",
+                    "reference": "ff6afe8f700e25eb04f65e459818110b3cf4e25d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-queues-mysql/zipball/ff6afe8f700e25eb04f65e459818110b3cf4e25d",
+                    "reference": "ff6afe8f700e25eb04f65e459818110b3cf4e25d",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cli": "^2.1.2",
+                    "moderntribe/square1-container": "^2.1.2",
+                    "moderntribe/square1-queues": "^2.1.2",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2020-04-02T20:46:06+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Queues_Mysql\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A MySQL backend for square one queues",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-queues-mysql/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-queues-mysql/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-queues-mysql",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-queues-mysql.git",
+                    "reference": "7c83b142af297b362a4ea578a6712de2abba69ec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-queues-mysql/zipball/7c83b142af297b362a4ea578a6712de2abba69ec",
+                    "reference": "7c83b142af297b362a4ea578a6712de2abba69ec",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cli": "^3.0",
+                    "moderntribe/square1-container": "^3.0",
+                    "moderntribe/square1-queues": "^3.0",
+                    "php": "^7.0"
+                },
+                "time": "2020-09-01T17:22:29+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Queues_Mysql\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A MySQL backend for square one queues",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-queues-mysql/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-queues-mysql/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-queues-mysql",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-queues-mysql.git",
+                    "reference": "50fe205a51bb14183d2c84ceddd3143a05f939d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-queues-mysql/zipball/50fe205a51bb14183d2c84ceddd3143a05f939d4",
+                    "reference": "50fe205a51bb14183d2c84ceddd3143a05f939d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-cli": "^3.1",
+                    "moderntribe/square1-container": "^3.1",
+                    "moderntribe/square1-queues": "^3.1",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Queues_Mysql\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A MySQL backend for square one queues",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-queues-mysql/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-queues-mysql/issues"
+                }
+            }
+        ]
+    }
+}

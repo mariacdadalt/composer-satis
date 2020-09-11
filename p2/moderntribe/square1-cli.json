@@ -1,0 +1,286 @@
+{
+    "packages": {
+        "moderntribe/square1-cli": [
+            {
+                "name": "moderntribe/square1-cli",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-cli.git",
+                    "reference": "331c70025f9bd87b55770246f3559dd82ea7e95f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-cli/zipball/331c70025f9bd87b55770246f3559dd82ea7e95f",
+                    "reference": "331c70025f9bd87b55770246f3559dd82ea7e95f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-06-11T00:43:55+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "A framework for registering wp-cli commands in square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-cli/tree/0.0.1",
+                    "issues": "https://github.com/moderntribe/square1-cli/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-cli",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-cli.git",
+                    "reference": "90bc6709fc37036765296df1327c46c1397edd51"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-cli/zipball/90bc6709fc37036765296df1327c46c1397edd51",
+                    "reference": "90bc6709fc37036765296df1327c46c1397edd51",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-08-02T21:17:30+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-feature/monorepo": "2.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "A framework for registering wp-cli commands in square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-cli/tree/0.0.2",
+                    "issues": "https://github.com/moderntribe/square1-cli/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-cli",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-cli.git",
+                    "reference": "b8973c23f6834f80b5a56f4e3ddd1db20606c5f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-cli/zipball/b8973c23f6834f80b5a56f4e3ddd1db20606c5f7",
+                    "reference": "b8973c23f6834f80b5a56f4e3ddd1db20606c5f7",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\CLI\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A framework for registering wp-cli commands in square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-cli/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-cli/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-cli",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-cli.git",
+                    "reference": "d71a5250742a0ae7091e6ed5dc02bddb6f586b6c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-cli/zipball/d71a5250742a0ae7091e6ed5dc02bddb6f586b6c",
+                    "reference": "d71a5250742a0ae7091e6ed5dc02bddb6f586b6c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2020-02-22T22:11:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\CLI\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A framework for registering wp-cli commands in square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-cli/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-cli/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-cli",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-cli.git",
+                    "reference": "d71a5250742a0ae7091e6ed5dc02bddb6f586b6c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-cli/zipball/d71a5250742a0ae7091e6ed5dc02bddb6f586b6c",
+                    "reference": "d71a5250742a0ae7091e6ed5dc02bddb6f586b6c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2020-02-22T22:11:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\CLI\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A framework for registering wp-cli commands in square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-cli/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-cli/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-cli",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-cli.git",
+                    "reference": "543c572b81a34b2ba60ef17b3d4d01e284ca6eb1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-cli/zipball/543c572b81a34b2ba60ef17b3d4d01e284ca6eb1",
+                    "reference": "543c572b81a34b2ba60ef17b3d4d01e284ca6eb1",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.0",
+                    "php": "^7.0"
+                },
+                "time": "2020-09-01T17:22:29+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\CLI\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A framework for registering wp-cli commands in square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-cli/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-cli/issues"
+                }
+            },
+            {
+                "name": "moderntribe/square1-cli",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-cli.git",
+                    "reference": "e561971cdcb173522ffe3c3742787e7c5b436d81"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-cli/zipball/e561971cdcb173522ffe3c3742787e7c5b436d81",
+                    "reference": "e561971cdcb173522ffe3c3742787e7c5b436d81",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.1",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\CLI\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A framework for registering wp-cli commands in square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-cli/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-cli/issues"
+                }
+            }
+        ]
+    }
+}
