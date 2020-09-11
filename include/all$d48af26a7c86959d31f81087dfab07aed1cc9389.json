@@ -1,0 +1,1096 @@
+{
+    "packages": {
+        "moderntribe/square1-container": {
+            "0.0.1": {
+                "name": "moderntribe/square1-container",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-container.git",
+                    "reference": "f5712d4a91656e0e6e958210c5b5ff3f6313e28b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-container/zipball/f5712d4a91656e0e6e958210c5b5ff3f6313e28b",
+                    "reference": "f5712d4a91656e0e6e958210c5b5ff3f6313e28b",
+                    "shasum": ""
+                },
+                "require": {
+                    "jbzoo/pimpledumper": "^1.2",
+                    "moderntribe/square1-cli": "2.0.*",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-06-11T00:43:55+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "A dependency injection container wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-container/tree/0.0.1",
+                    "issues": "https://github.com/moderntribe/square1-container/issues"
+                }
+            },
+            "0.0.2": {
+                "name": "moderntribe/square1-container",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-container.git",
+                    "reference": "0ded54f4ed16014c08f5b72f107391ba5529540f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-container/zipball/0ded54f4ed16014c08f5b72f107391ba5529540f",
+                    "reference": "0ded54f4ed16014c08f5b72f107391ba5529540f",
+                    "shasum": ""
+                },
+                "require": {
+                    "jbzoo/pimpledumper": "^1.2",
+                    "moderntribe/square1-cli": "2.0.*",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-08-02T21:17:30+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-feature/monorepo": "2.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "A dependency injection container wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-container/tree/0.0.2",
+                    "issues": "https://github.com/moderntribe/square1-container/issues"
+                }
+            },
+            "v2.0.0": {
+                "name": "moderntribe/square1-container",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-container.git",
+                    "reference": "9608eb2e3583733b9b0b52b4be1dc35428629619"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-container/zipball/9608eb2e3583733b9b0b52b4be1dc35428629619",
+                    "reference": "9608eb2e3583733b9b0b52b4be1dc35428629619",
+                    "shasum": ""
+                },
+                "require": {
+                    "jbzoo/pimpledumper": "^1.2",
+                    "moderntribe/square1-cli": "^2.0",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-10-07T15:02:31+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A dependency injection container wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-container/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-container/issues"
+                }
+            },
+            "v2.1.1": {
+                "name": "moderntribe/square1-container",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-container.git",
+                    "reference": "189bc025f1f7dc23bbcc9b8bc76e308d6b637a3d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-container/zipball/189bc025f1f7dc23bbcc9b8bc76e308d6b637a3d",
+                    "reference": "189bc025f1f7dc23bbcc9b8bc76e308d6b637a3d",
+                    "shasum": ""
+                },
+                "require": {
+                    "jbzoo/pimpledumper": "^1.2",
+                    "moderntribe/square1-cli": "^2.1.1",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2020-02-22T22:15:00+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A dependency injection container wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-container/tree/v2.1.1",
+                    "issues": "https://github.com/moderntribe/square1-container/issues"
+                }
+            },
+            "v2.1.2": {
+                "name": "moderntribe/square1-container",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-container.git",
+                    "reference": "64b24b5aa48d3fad1ea659e50013549414303048"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-container/zipball/64b24b5aa48d3fad1ea659e50013549414303048",
+                    "reference": "64b24b5aa48d3fad1ea659e50013549414303048",
+                    "shasum": ""
+                },
+                "require": {
+                    "jbzoo/pimpledumper": "^1.2",
+                    "moderntribe/square1-cli": "^2.1.2",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2020-04-02T20:46:06+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A dependency injection container wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-container/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-container/issues"
+                }
+            },
+            "v3.0.0": {
+                "name": "moderntribe/square1-container",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-container.git",
+                    "reference": "7a597c247968d72efad6bf827a93a1508b01e0e6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-container/zipball/7a597c247968d72efad6bf827a93a1508b01e0e6",
+                    "reference": "7a597c247968d72efad6bf827a93a1508b01e0e6",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0",
+                    "php-di/php-di": "^6.0"
+                },
+                "time": "2020-05-04T14:56:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A dependency injection container wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-container/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-container/issues"
+                }
+            },
+            "v3.1.0": {
+                "name": "moderntribe/square1-container",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-container.git",
+                    "reference": "2d40633527af0a7a5d9422b8cf8f9a192c3e6441"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-container/zipball/2d40633527af0a7a5d9422b8cf8f9a192c3e6441",
+                    "reference": "2d40633527af0a7a5d9422b8cf8f9a192c3e6441",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.2",
+                    "php-di/php-di": "^6.0"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A dependency injection container wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-container/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-container/issues"
+                }
+            },
+            "dev-master": {
+                "name": "moderntribe/square1-container",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-container.git",
+                    "reference": "ad11ed8f23f2d5bd6785fc230ae2d665872965ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-container/zipball/ad11ed8f23f2d5bd6785fc230ae2d665872965ca",
+                    "reference": "ad11ed8f23f2d5bd6785fc230ae2d665872965ca",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.2",
+                    "php-di/php-di": "^6.0"
+                },
+                "time": "2020-09-03T00:47:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A dependency injection container wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-container/tree/master",
+                    "issues": "https://github.com/moderntribe/square1-container/issues"
+                }
+            },
+            "dev-feature/monorepo": {
+                "name": "moderntribe/square1-container",
+                "version": "dev-feature/monorepo",
+                "version_normalized": "dev-feature/monorepo",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-container.git",
+                    "reference": "a2ccc5b63e4251c445ac801d72add013e609a3fb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-container/zipball/a2ccc5b63e4251c445ac801d72add013e609a3fb",
+                    "reference": "a2ccc5b63e4251c445ac801d72add013e609a3fb",
+                    "shasum": ""
+                },
+                "require": {
+                    "jbzoo/pimpledumper": "^1.2",
+                    "moderntribe/square1-cli": "dev-feature/monorepo",
+                    "php": "^7.0",
+                    "pimple/pimple": "~3.0@dev"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Container\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "A dependency injection container wrapper for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-container/tree/feature/monorepo",
+                    "issues": "https://github.com/moderntribe/square1-container/issues"
+                }
+            }
+        },
+        "moderntribe/square1-object-meta": {
+            "0.0.1": {
+                "name": "moderntribe/square1-object-meta",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-object-meta.git",
+                    "reference": "afb216f9d0aff6ac103aec33f49719b83a26fa3d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-object-meta/zipball/afb216f9d0aff6ac103aec33f49719b83a26fa3d",
+                    "reference": "afb216f9d0aff6ac103aec33f49719b83a26fa3d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-06-11T00:43:55+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Object_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "Provides object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-object-meta/tree/0.0.1",
+                    "issues": "https://github.com/moderntribe/square1-object-meta/issues"
+                }
+            },
+            "0.0.2": {
+                "name": "moderntribe/square1-object-meta",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-object-meta.git",
+                    "reference": "74b231178a92ad97736ef95b9d69e5a0325c761c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-object-meta/zipball/74b231178a92ad97736ef95b9d69e5a0325c761c",
+                    "reference": "74b231178a92ad97736ef95b9d69e5a0325c761c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-08-02T21:17:30+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-feature/monorepo": "2.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Object_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "Provides object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-object-meta/tree/0.0.2",
+                    "issues": "https://github.com/moderntribe/square1-object-meta/issues"
+                }
+            },
+            "v2.0.0": {
+                "name": "moderntribe/square1-object-meta",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-object-meta.git",
+                    "reference": "cf53ccbadaae93ba34ff8c18d20177a9e86934eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-object-meta/zipball/cf53ccbadaae93ba34ff8c18d20177a9e86934eb",
+                    "reference": "cf53ccbadaae93ba34ff8c18d20177a9e86934eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Object_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-object-meta/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-object-meta/issues"
+                }
+            },
+            "v2.1.1": {
+                "name": "moderntribe/square1-object-meta",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-object-meta.git",
+                    "reference": "827ccfaf74762a5a793e33c114ef8c0d56d8953a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-object-meta/zipball/827ccfaf74762a5a793e33c114ef8c0d56d8953a",
+                    "reference": "827ccfaf74762a5a793e33c114ef8c0d56d8953a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2020-02-22T22:11:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Object_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-object-meta/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-object-meta/issues"
+                }
+            },
+            "v2.1.2": {
+                "name": "moderntribe/square1-object-meta",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-object-meta.git",
+                    "reference": "827ccfaf74762a5a793e33c114ef8c0d56d8953a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-object-meta/zipball/827ccfaf74762a5a793e33c114ef8c0d56d8953a",
+                    "reference": "827ccfaf74762a5a793e33c114ef8c0d56d8953a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2020-02-22T22:11:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Object_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-object-meta/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-object-meta/issues"
+                }
+            },
+            "v3.0.0": {
+                "name": "moderntribe/square1-object-meta",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-object-meta.git",
+                    "reference": "9d8d3400923ba6cae04f9faa9397f154ba44a9f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-object-meta/zipball/9d8d3400923ba6cae04f9faa9397f154ba44a9f3",
+                    "reference": "9d8d3400923ba6cae04f9faa9397f154ba44a9f3",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.0",
+                    "php": "^7.0"
+                },
+                "time": "2020-09-01T17:22:29+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Object_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-object-meta/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-object-meta/issues"
+                }
+            },
+            "v3.1.0": {
+                "name": "moderntribe/square1-object-meta",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-object-meta.git",
+                    "reference": "c9ae5aaa6ec4f33fe8c3945a369dffe3ba15d25e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-object-meta/zipball/c9ae5aaa6ec4f33fe8c3945a369dffe3ba15d25e",
+                    "reference": "c9ae5aaa6ec4f33fe8c3945a369dffe3ba15d25e",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.1",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Object_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-object-meta/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-object-meta/issues"
+                }
+            },
+            "dev-master": {
+                "name": "moderntribe/square1-object-meta",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-object-meta.git",
+                    "reference": "ceba626e58eabcb03dab1becc18f849241808a41"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-object-meta/zipball/ceba626e58eabcb03dab1becc18f849241808a41",
+                    "reference": "ceba626e58eabcb03dab1becc18f849241808a41",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-container": "^3.2",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-03T00:47:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Object_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-object-meta/tree/master",
+                    "issues": "https://github.com/moderntribe/square1-object-meta/issues"
+                }
+            },
+            "dev-feature/monorepo": {
+                "name": "moderntribe/square1-object-meta",
+                "version": "dev-feature/monorepo",
+                "version_normalized": "dev-feature/monorepo",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-object-meta.git",
+                    "reference": "cf53ccbadaae93ba34ff8c18d20177a9e86934eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-object-meta/zipball/cf53ccbadaae93ba34ff8c18d20177a9e86934eb",
+                    "reference": "cf53ccbadaae93ba34ff8c18d20177a9e86934eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Object_Meta\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Provides object meta wrappers for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-object-meta/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-object-meta/issues"
+                }
+            }
+        },
+        "moderntribe/square1-post-type": {
+            "0.0.1": {
+                "name": "moderntribe/square1-post-type",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-type.git",
+                    "reference": "477d9f74d192592e263bc7a3f6d88368ef71828b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-type/zipball/477d9f74d192592e263bc7a3f6d88368ef71828b",
+                    "reference": "477d9f74d192592e263bc7a3f6d88368ef71828b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.0",
+                    "square1-object-meta": "2.0.*"
+                },
+                "time": "2019-06-11T00:43:55+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Type\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "Post type utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-type/tree/0.0.1",
+                    "issues": "https://github.com/moderntribe/square1-post-type/issues"
+                }
+            },
+            "0.0.2": {
+                "name": "moderntribe/square1-post-type",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-type.git",
+                    "reference": "9b9cfa5b9e4e28b7c3c47a6aa362ff22abc5a329"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-type/zipball/9b9cfa5b9e4e28b7c3c47a6aa362ff22abc5a329",
+                    "reference": "9b9cfa5b9e4e28b7c3c47a6aa362ff22abc5a329",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "2.0.*",
+                    "php": "^7.0"
+                },
+                "time": "2019-08-02T21:38:57+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-feature/monorepo": "2.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Type\\": ""
+                    }
+                },
+                "license": [
+                    "Private"
+                ],
+                "description": "Post type utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-type/tree/0.0.2",
+                    "issues": "https://github.com/moderntribe/square1-post-type/issues"
+                }
+            },
+            "v2.0.0": {
+                "name": "moderntribe/square1-post-type",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-type.git",
+                    "reference": "292ef92bd426ce3f398b96ee37462703fc198af1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-type/zipball/292ef92bd426ce3f398b96ee37462703fc198af1",
+                    "reference": "292ef92bd426ce3f398b96ee37462703fc198af1",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^2.0",
+                    "php": "^7.0"
+                },
+                "time": "2019-10-07T15:02:31+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Type\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Post type utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-type/tree/v2.0.0",
+                    "issues": "https://github.com/moderntribe/square1-post-type/issues"
+                }
+            },
+            "v2.1.1": {
+                "name": "moderntribe/square1-post-type",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-type.git",
+                    "reference": "be63c8dde4fe325bdc95119e012860917b41984a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-type/zipball/be63c8dde4fe325bdc95119e012860917b41984a",
+                    "reference": "be63c8dde4fe325bdc95119e012860917b41984a",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^2.1.1",
+                    "php": "^7.0"
+                },
+                "time": "2020-02-22T22:15:00+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Type\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Post type utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-type/tree/v2.1.1",
+                    "issues": "https://github.com/moderntribe/square1-post-type/issues"
+                }
+            },
+            "v2.1.2": {
+                "name": "moderntribe/square1-post-type",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-type.git",
+                    "reference": "94226090a3f0b1f17fe9eff2d673d87272c6a1ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-type/zipball/94226090a3f0b1f17fe9eff2d673d87272c6a1ba",
+                    "reference": "94226090a3f0b1f17fe9eff2d673d87272c6a1ba",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^2.1.2",
+                    "php": "^7.0"
+                },
+                "time": "2020-04-02T20:46:06+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Type\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Post type utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-type/tree/v2.1.2",
+                    "issues": "https://github.com/moderntribe/square1-post-type/issues"
+                }
+            },
+            "v3.0.0": {
+                "name": "moderntribe/square1-post-type",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-type.git",
+                    "reference": "ce88339d81d926c01ca24f305ff19cc629e0dbf2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-type/zipball/ce88339d81d926c01ca24f305ff19cc629e0dbf2",
+                    "reference": "ce88339d81d926c01ca24f305ff19cc629e0dbf2",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^3.0",
+                    "php": "^7.0"
+                },
+                "time": "2020-09-01T17:22:29+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Type\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Post type utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-type/tree/v3.0.0",
+                    "issues": "https://github.com/moderntribe/square1-post-type/issues"
+                }
+            },
+            "v3.1.0": {
+                "name": "moderntribe/square1-post-type",
+                "version": "v3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-type.git",
+                    "reference": "f4c9c5dc2ea231189322711d18d819b54244fc0b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-type/zipball/f4c9c5dc2ea231189322711d18d819b54244fc0b",
+                    "reference": "f4c9c5dc2ea231189322711d18d819b54244fc0b",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^3.1",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-02T23:17:21+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Type\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Post type utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-type/tree/v3.1.0",
+                    "issues": "https://github.com/moderntribe/square1-post-type/issues"
+                }
+            },
+            "dev-master": {
+                "name": "moderntribe/square1-post-type",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-type.git",
+                    "reference": "dc0c3975a413f4e273f11a4709343fbd005bed30"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-type/zipball/dc0c3975a413f4e273f11a4709343fbd005bed30",
+                    "reference": "dc0c3975a413f4e273f11a4709343fbd005bed30",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "^3.2",
+                    "php": "^7.2"
+                },
+                "time": "2020-09-03T00:47:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.2-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Type\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Post type utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-type/tree/master",
+                    "issues": "https://github.com/moderntribe/square1-post-type/issues"
+                }
+            },
+            "dev-feature/monorepo": {
+                "name": "moderntribe/square1-post-type",
+                "version": "dev-feature/monorepo",
+                "version_normalized": "dev-feature/monorepo",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/moderntribe/square1-post-type.git",
+                    "reference": "8a198d8513a3bc328c0f66bf8efd182adf0d6368"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/moderntribe/square1-post-type/zipball/8a198d8513a3bc328c0f66bf8efd182adf0d6368",
+                    "reference": "8a198d8513a3bc328c0f66bf8efd182adf0d6368",
+                    "shasum": ""
+                },
+                "require": {
+                    "moderntribe/square1-object-meta": "dev-feature/monorepo",
+                    "php": "^7.0"
+                },
+                "time": "2019-08-03T18:34:37+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Tribe\\Libs\\Post_Type\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "description": "Post type utilities for square one",
+                "support": {
+                    "source": "https://github.com/moderntribe/square1-post-type/tree/feature/monorepo",
+                    "issues": "https://github.com/moderntribe/square1-post-type/issues"
+                }
+            }
+        }
+    }
+}

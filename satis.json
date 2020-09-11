@@ -1,0 +1,32 @@
+{
+  "name": "Tribe's Satis Server",
+  "homepage": "http://localhost:5151/",
+  "repositories": [
+    {
+      "type": "vcs",
+      "no-api": true,
+      "url": "git@github.com:nickforddesign/acf-swatch.git"
+    },
+    {
+      "type": "vcs",
+      "no-api": true,
+      "url": "git@github.com:moderntribe/ACF-Image-Select.git"
+    },
+    {
+      "name": "moderntribe/square1-post-type",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-post-type.git"
+    },
+    {
+      "name": "moderntribe/square1-object-meta",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-object-meta.git"
+    },
+    {
+      "name": "moderntribe/square1-container",
+      "type": "vcs",
+      "url": "git@github.com:moderntribe/square1-container.git"
+    }
+  ],
+  "require-all": true
+}
