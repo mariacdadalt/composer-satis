@@ -1,12 +1,17 @@
 {
-  "name": "tribe/satis",
-  "homepage": "https://amazing-wozniak-31fa75.netlify.app/",
-  "repositories": [
-    {
-      "name": "mariacdadalt/plugin-core",
-      "type": "vcs",
-      "url": "https://github.com/mariacdadalt/plugin-core"
-    }
-  ],
-  "require-all": true
+	"name": "mariacdadalt/composer-satis",
+	"homepage": "https://mariacdadalt.github.io/composer-satis/",
+	"repositories": [
+		{
+			"name": "mariacdadalt/plugin-core",
+			"type": "vcs",
+			"url": "https://github.com/mariacdadalt/plugin-core"
+		},
+		{
+			"name": "mariacdadalt/inpsyde-assessment",
+			"type": "vcs",
+			"url": "https://github.com/mariacdadalt/inpsyde-assessment"
+		}
+	],
+	"require-all": true
 }

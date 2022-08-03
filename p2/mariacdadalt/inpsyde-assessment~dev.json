@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "mariacdadalt/inpsyde-assessment": [
+            {
+                "name": "mariacdadalt/inpsyde-assessment",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:mariacdadalt/inpsyde-assessment.git",
+                    "reference": "8068a46730f91641121081efc2775548116c8155"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mariacdadalt/inpsyde-assessment/zipball/8068a46730f91641121081efc2775548116c8155",
+                    "reference": "8068a46730f91641121081efc2775548116c8155",
+                    "shasum": ""
+                },
+                "require": {
+                    "mariacdadalt/plugin-core": "dev-main"
+                },
+                "time": "2022-08-03T15:55:59+00:00",
+                "type": "wordpress-plugin",
+                "description": "Maria C. Dadalt's Inpyside Assessment",
+                "support": {
+                    "source": "https://github.com/mariacdadalt/inpsyde-assessment/tree/main",
+                    "issues": "https://github.com/mariacdadalt/inpsyde-assessment/issues"
+                }
+            }
+        ]
+    }
+}

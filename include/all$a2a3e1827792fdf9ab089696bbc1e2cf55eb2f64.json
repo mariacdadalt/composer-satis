@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "mariacdadalt/inpsyde-assessment": {
+            "dev-main": {
+                "name": "mariacdadalt/inpsyde-assessment",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:mariacdadalt/inpsyde-assessment.git",
+                    "reference": "8068a46730f91641121081efc2775548116c8155"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mariacdadalt/inpsyde-assessment/zipball/8068a46730f91641121081efc2775548116c8155",
+                    "reference": "8068a46730f91641121081efc2775548116c8155",
+                    "shasum": ""
+                },
+                "require": {
+                    "mariacdadalt/plugin-core": "dev-main"
+                },
+                "time": "2022-08-03T15:55:59+00:00",
+                "type": "wordpress-plugin",
+                "description": "Maria C. Dadalt's Inpyside Assessment",
+                "support": {
+                    "source": "https://github.com/mariacdadalt/inpsyde-assessment/tree/main",
+                    "issues": "https://github.com/mariacdadalt/inpsyde-assessment/issues"
+                }
+            }
+        },
+        "mariacdadalt/plugin-core": {
+            "dev-main": {
+                "name": "mariacdadalt/plugin-core",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mariacdadalt/plugin-core.git",
+                    "reference": "ed03bbb43e2cf5549968970e1d56ab4ae5b27c43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mariacdadalt/plugin-core/zipball/ed03bbb43e2cf5549968970e1d56ab4ae5b27c43",
+                    "reference": "ed03bbb43e2cf5549968970e1d56ab4ae5b27c43",
+                    "shasum": ""
+                },
+                "require": {
+                    "advanced-custom-fields/advanced-custom-fields-pro": ">=5.10",
+                    "mustache/mustache": "^2.5",
+                    "php-di/php-di": "6.0.*"
+                },
+                "time": "2022-08-03T14:59:00+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "WPillar\\Core\\": "src"
+                    }
+                },
+                "description": "A MU Plugin that acts like a core. You can use it to easily create a new plugin with dependency injection.",
+                "support": {
+                    "source": "https://github.com/mariacdadalt/plugin-core/tree/main",
+                    "issues": "https://github.com/mariacdadalt/plugin-core/issues"
+                }
+            }
+        }
+    }
+}
