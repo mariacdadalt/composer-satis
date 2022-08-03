@@ -8,23 +8,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/mariacdadalt/plugin-core.git",
-                    "reference": "d6ecac05925f144f6a568099d2016788dfbc2709"
+                    "reference": "fd5199b66e057f8bc133fe153122bb547f66b360"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mariacdadalt/plugin-core/zipball/d6ecac05925f144f6a568099d2016788dfbc2709",
-                    "reference": "d6ecac05925f144f6a568099d2016788dfbc2709",
+                    "url": "https://api.github.com/repos/mariacdadalt/plugin-core/zipball/fd5199b66e057f8bc133fe153122bb547f66b360",
+                    "reference": "fd5199b66e057f8bc133fe153122bb547f66b360",
                     "shasum": ""
                 },
                 "require": {
                     "mustache/mustache": "^2.5",
                     "php-di/php-di": "6.0.*"
                 },
-                "time": "2022-08-03T17:40:58+00:00",
+                "time": "2022-08-03T20:54:27+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
-                        "WPillar\\Core\\": "src"
+                        "Plugin\\Core\\": "src"
                     }
                 },
                 "description": "A MU Plugin that acts like a core. You can use it to easily create a new plugin with dependency injection.",

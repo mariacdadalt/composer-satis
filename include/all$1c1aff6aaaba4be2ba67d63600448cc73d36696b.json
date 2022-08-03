@@ -8,19 +8,26 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:mariacdadalt/inpsyde-assessment.git",
-                    "reference": "8068a46730f91641121081efc2775548116c8155"
+                    "reference": "d47a314c4a94189d0d3c53737a8b57c4418e1c79"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mariacdadalt/inpsyde-assessment/zipball/8068a46730f91641121081efc2775548116c8155",
-                    "reference": "8068a46730f91641121081efc2775548116c8155",
+                    "url": "https://api.github.com/repos/mariacdadalt/inpsyde-assessment/zipball/d47a314c4a94189d0d3c53737a8b57c4418e1c79",
+                    "reference": "d47a314c4a94189d0d3c53737a8b57c4418e1c79",
                     "shasum": ""
                 },
                 "require": {
-                    "mariacdadalt/plugin-core": "dev-main"
+                    "inpsyde/php-coding-standards": "^1.0",
+                    "mariacdadalt/plugin-core": "dev-main",
+                    "squizlabs/php_codesniffer": "^3.6"
                 },
-                "time": "2022-08-03T15:55:59+00:00",
+                "time": "2022-08-03T20:54:50+00:00",
                 "type": "wordpress-plugin",
+                "autoload": {
+                    "psr-4": {
+                        "Plugin\\Assessment\\": "src"
+                    }
+                },
                 "description": "Maria C. Dadalt's Inpyside Assessment",
                 "support": {
                     "source": "https://github.com/mariacdadalt/inpsyde-assessment/tree/main",
@@ -36,23 +43,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/mariacdadalt/plugin-core.git",
-                    "reference": "d6ecac05925f144f6a568099d2016788dfbc2709"
+                    "reference": "fd5199b66e057f8bc133fe153122bb547f66b360"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mariacdadalt/plugin-core/zipball/d6ecac05925f144f6a568099d2016788dfbc2709",
-                    "reference": "d6ecac05925f144f6a568099d2016788dfbc2709",
+                    "url": "https://api.github.com/repos/mariacdadalt/plugin-core/zipball/fd5199b66e057f8bc133fe153122bb547f66b360",
+                    "reference": "fd5199b66e057f8bc133fe153122bb547f66b360",
                     "shasum": ""
                 },
                 "require": {
                     "mustache/mustache": "^2.5",
                     "php-di/php-di": "6.0.*"
                 },
-                "time": "2022-08-03T17:40:58+00:00",
+                "time": "2022-08-03T20:54:27+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
-                        "WPillar\\Core\\": "src"
+                        "Plugin\\Core\\": "src"
                     }
                 },
                 "description": "A MU Plugin that acts like a core. You can use it to easily create a new plugin with dependency injection.",
