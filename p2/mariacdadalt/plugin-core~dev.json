@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/mariacdadalt/plugin-core.git",
-                    "reference": "809fef40ae2762a7d63c05099479d1b1e7a4f3a7"
+                    "reference": "5d85ae858b162e93b41fd8fd68b78d903b1c2321"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mariacdadalt/plugin-core/zipball/809fef40ae2762a7d63c05099479d1b1e7a4f3a7",
-                    "reference": "809fef40ae2762a7d63c05099479d1b1e7a4f3a7",
+                    "url": "https://api.github.com/repos/mariacdadalt/plugin-core/zipball/5d85ae858b162e93b41fd8fd68b78d903b1c2321",
+                    "reference": "5d85ae858b162e93b41fd8fd68b78d903b1c2321",
                     "shasum": ""
                 },
                 "require": {
                     "mustache/mustache": "^2.5",
                     "php-di/php-di": "6.0.*"
                 },
-                "time": "2022-08-15T20:59:35+00:00",
+                "time": "2022-08-15T21:39:38+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
