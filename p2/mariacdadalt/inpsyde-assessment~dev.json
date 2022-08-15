@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:mariacdadalt/inpsyde-assessment.git",
-                    "reference": "fad4a4b4af89c53e1ad168620590d00e5c9a65f4"
+                    "reference": "d8d96d5302106d175808e15cacceb67218eedc28"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/mariacdadalt/inpsyde-assessment/zipball/fad4a4b4af89c53e1ad168620590d00e5c9a65f4",
-                    "reference": "fad4a4b4af89c53e1ad168620590d00e5c9a65f4",
+                    "url": "https://api.github.com/repos/mariacdadalt/inpsyde-assessment/zipball/d8d96d5302106d175808e15cacceb67218eedc28",
+                    "reference": "d8d96d5302106d175808e15cacceb67218eedc28",
                     "shasum": ""
                 },
                 "require": {
@@ -25,7 +25,7 @@
                     "phpunit/phpunit": "^9",
                     "squizlabs/php_codesniffer": "^3.6"
                 },
-                "time": "2022-08-12T19:42:28+00:00",
+                "time": "2022-08-14T21:19:18+00:00",
                 "type": "wordpress-plugin",
                 "autoload": {
                     "psr-4": {
